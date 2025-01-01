@@ -7,3 +7,10 @@
 .third-banner {
     background-color: #feeae9;
 }
+.row {
+    justify-content: space-between;
+}
+.w-solve {
+    width: 32% !important;
+    border-radius: 4px;
+}
