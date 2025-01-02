@@ -14,3 +14,14 @@
     width: 32% !important;
     border-radius: 4px;
 }
+.bd {
+    border: none;
+    box-shadow: 0 0 12px rgba(0,0,0,0.2);
+}
+.any {
+    background-color:#f8f8f8;
+    padding: 15px;
+}
+.down {
+    margin-bottom: 10px;
+}
